@@ -1,7 +1,21 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Visualization of Virginia Tech's Shared Governance Structure"
+excerpt: "A quick visualization to show the structure of governance at VT. This can also be used to find which governing body would be good to consult with any ideas or questions.<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We start off with the overview figure
+
+<div w3-include-html="files/structure.html"></div>
+
+## Table of Commission relationships and Charges
+
+<div w3-include-html="files/commissions.html"></div>
+
+## Table of Committee relationships and Charges
+
+<div w3-include-html="files/committees.html"></div>
+
+## Table of Senate relationships and Charges
+
+<div w3-include-html="files/senates.html"></div>
