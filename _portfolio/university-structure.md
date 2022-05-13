@@ -29,29 +29,15 @@ While a senate might initiate discussions on a resolution, it will need to go to
 ## Overview of Shared Governance
 
 <embed src="../../files/structure.html" width="100%" height="100%">
-    </embed>
 
 ## Table of Commission relationships and Charges
 
-  <body>
-    <embed src="../../files/commissions.html" width="100%" height="100%">
-    </embed>
-  </body>
+<embed type="text/html" src="../../files/commissions.html" width="100%" height="100%">
 
 ## Table of Committee relationships and Charges
 
-<html>
-  <body>
-    <embed src="../../files/committees.html" width="100%" height="100%">
-    </embed>
-  </body>
-</html>
+<iframe src="../../files/committees.html" width="100%" height="100%">
 
 ## Table of Senate relationships and Charges
 
-<html>
-  <body>
-    <embed src="../../files/senates.html" width="100%" height="100%">
-    </embed>
-  </body>
-</html>
+<iframe src="../../files/senates.html" width="100%" height="100%" allowfullscreen=true>
