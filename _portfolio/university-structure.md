@@ -41,3 +41,7 @@ While a senate might initiate discussions on a resolution, it will need to go to
 ## Table of Senate relationships and Charges
 
 <embed src="../../files/senates.html" width="100%" height="100%">
+
+## Table with the relationships of University Council, President, and Board of Visitors 
+
+<embed src="../../files/councils.html" width="100%" height="100%">
