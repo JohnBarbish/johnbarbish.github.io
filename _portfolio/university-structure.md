@@ -34,7 +34,7 @@ While a senate might initiate discussions on a resolution, it will need to go to
 ## Table of Commission relationships and Charges
 
   <body>
-    <iframe src="../files/commissions.html" width="100%" height="100%">
+    <iframe src="../../files/commissions.html" width="100%" height="100%">
     </iframe>
   </body>
 
@@ -42,7 +42,7 @@ While a senate might initiate discussions on a resolution, it will need to go to
 
 <html>
   <body>
-    <iframe src="../files/committees.html" width="100%" height="100%">
+    <iframe src="../../files/committees.html" width="100%" height="100%">
     </iframe>
   </body>
 </html>
@@ -51,7 +51,7 @@ While a senate might initiate discussions on a resolution, it will need to go to
 
 <html>
   <body>
-    <embed src="../files/senates.html" width="100%" height="100%">
+    <embed src="../../files/senates.html" width="100%" height="100%">
     </embed>
   </body>
 </html>
