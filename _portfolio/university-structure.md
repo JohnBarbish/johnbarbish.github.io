@@ -36,8 +36,8 @@ While a senate might initiate discussions on a resolution, it will need to go to
 
 ## Table of Committee relationships and Charges
 
-<iframe src="../../files/committees.html" width="100%" height="100%">
+<embed src="../../files/committees.html" width="100%" height="100%">
 
 ## Table of Senate relationships and Charges
 
-<iframe src="../../files/senates.html" width="100%" height="100%" allowfullscreen=true>
+<embed src="../../files/senates.html" width="100%" height="100%">
