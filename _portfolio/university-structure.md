@@ -28,22 +28,15 @@ While a senate might initiate discussions on a resolution, it will need to go to
 
 ## Overview of Shared Governance
 
-<html>
-  <body>
-    <iframe src="../files/structure.html" width="100%" height="100%">
+<iframe src="../files/structure.html" width="100%" height="100%">
     </iframe>
-  </body>
-</html>
-
 
 ## Table of Commission relationships and Charges
 
-<html>
   <body>
     <iframe src="../files/commissions.html" width="100%" height="100%">
     </iframe>
   </body>
-</html>
 
 ## Table of Committee relationships and Charges
 
@@ -58,7 +51,7 @@ While a senate might initiate discussions on a resolution, it will need to go to
 
 <html>
   <body>
-    <iframe src="../files/senates.html" width="100%" height="100%">
-    </iframe>
+    <object src="../files/senates.html" width="100%" height="100%">
+    </object>
   </body>
 </html>
