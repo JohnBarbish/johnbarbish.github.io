@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+## Johnathon (John) Barbish
+- **PhD in Mechanical Engineering from Virginia Tech, 2018-current**
+- **B.S. in Mechanical Engineering from Virginia Tech, 2014-2018**
+- **B.S. in Physics from Virginia Tech, 2014-2018**
+
 I'm John Barbish, a graduate student in mechanical engineering at Virginia Tech. I'm interested in improving our understanding of complex systems at the intersection of statistical mechanics, fluid mechanics, and nonlinear dynamics.
-
-If you enjoy codes, check out my [Github](https://github.com/JohnBarbish).
-
-If you're interested in a random assortment of thoughts about graduate education, I've collected some of my thoughts on a [blog](https://blogs.tlos.vt.edu/grad5104johnb/) I wrote for a course on preparing the future professoriate.
