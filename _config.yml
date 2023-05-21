@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Barbish / PhD Student"
+title                    : "Johnathon Barbish"
 title_separator          : "-"
 name                     : &name "John Barbish"
 description              : &description "Graduate Student"
-url                      : https://johnbarbish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 #https://johnbarbish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnBarbish/johnbarbish.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,11 +83,11 @@ author:
   name             : "John Barbish"
   avatar           : "profile.jpeg"
   bio              : "Researcher and teacher interested in understanding complex physical systems"
-  location         : "Blacksburg"
+  location         : # "Blacksburg"
   employer         :
   pubmed           : 
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=qlNYjUEAAAAJ&hl=en&view_op=list_works&sortby=pubdate"
+  email            : "jbarbish@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

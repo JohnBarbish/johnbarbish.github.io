@@ -30,7 +30,17 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% if post.collection == 'publications' %}
+          {% if post.paperurl %}
+            <a href=" {{ post.paperurl }} ">{{ title }}</a>
+          {% elsif post.arxivurl %}
+            <a href=" {{ post.arxivurl }} ">{{ title }}</a>
+          {% else %}
+            {{ title }}
+          {% endif %}
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
       {% endif %}
     </h2>
     
@@ -52,12 +62,24 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
+    <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p>Download from publisher: <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% endif %} -->
+    <!-- Citation if available. This should be included in all published/presented works -->
+    {% if post.citation %}
+    <p>Citation: {{ post.citation }}</p>
+    {% endif %}
+    <!-- Link to the paper from the publisher, if available. -->
+    {% if post.paperurl %}
+    <p>Download from publisher: <a href=" {{ post.arxivurl }} "><u>here</u></a></p>
+    {% endif %}
+<!-- Adding explicit link to arXiv pdfs -->
+    {% if post.arxivurl %}
+    <p>Download from arXiv: <a href=" {{ post.arxivurl }} "><u>here</u></a></p>
     {% endif %}
 
   </article>
