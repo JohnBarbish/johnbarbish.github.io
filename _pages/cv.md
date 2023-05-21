@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A current version of my [CV](http://johnbarbish.github.io/files/barbish_cv.pdf).
+A current version of my [CV](../files/barbish_cv.pdf).
