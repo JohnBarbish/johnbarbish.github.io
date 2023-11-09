@@ -9,14 +9,14 @@
 locale                   : "en-US"
 title                    : "Johnathon Barbish"
 title_separator          : "-"
-name                     : &name "John Barbish"
-description              : &description "Graduate Student"
+name                     : &name "Johnathon Barbish"
+description              : &description "Instructor"
 url                      : https://johnbarbish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnBarbish/johnbarbish.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : # 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -83,12 +83,12 @@ author:
   name             : "John Barbish"
   avatar           : "profile.jpeg"
   bio              : "Researcher and teacher interested in understanding complex physical systems"
-  location         : # "Blacksburg"
-  employer         :
+  location         : 
+  employer         : "Virginia Tech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qlNYjUEAAAAJ&hl=en&view_op=list_works&sortby=pubdate"
   email            : "jbarbish@vt.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/John_Barbish"
   uri              :
   bitbucket        :
   codepen          :
