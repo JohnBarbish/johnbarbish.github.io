@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## Johnathon (John) Barbish, Ph.D. -->
 - **Instructor in Mechanical Engineering at Virginia Tech, current**
-- **PhD in Mechanical Engineering from Virginia Tech, 2018-2023**
+- **Ph.D. in Mechanical Engineering from Virginia Tech, 2018-2023**
 - **B.S. in Mechanical Engineering from Virginia Tech, 2014-2018**
 - **B.S. in Physics from Virginia Tech, 2014-2018**
 
@@ -22,3 +22,7 @@ I'm Johnathon Barbish, a recent Ph.D. graduate in mechanical engineering at Virg
 - **[Other Interests](../portfolio/)**  - some miscellaneous projects I've done which I wanted to share
 - **[CV](../cv/)**  - a copy of a recent CV of mine
 
+### Fun Animations
+![](../files/midplane-velocity-field.mp4)
+
+An animation of the fluid flow around a beam as it oscillates up and down and returns to equilibrium. Part of my Ph.D. research.
