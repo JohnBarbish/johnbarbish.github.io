@@ -3,7 +3,7 @@ title: "Multi-Mode Brownian Dynamics of a Nanomechanical Resonator in a Viscous 
 collection: publications
 # permalink: /publication/hagen-03-23
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-03-02
+date: 2023-10-24
 venue: 'Physical Review Applied'
 paperurl: 'https://doi.org/10.1103/physrevapplied.20.044061'
 # arxivurl: 'https://arxiv.org/pdf/2303.13977'

@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 <!-- ## Johnathon (John) Barbish, Ph.D. -->
-- **Instructor in Mechanical Engineering at Virginia Tech, current**
+- **Visiting Assistant Professor in Engineering at James Madison University, 2024-Present**
+- **Instructor in Mechanical Engineering at Virginia Tech, 2023-2024**
 - **Ph.D. in Mechanical Engineering from Virginia Tech, 2018-2023**
 - **B.S. in Mechanical Engineering from Virginia Tech, 2014-2018**
 - **B.S. in Physics from Virginia Tech, 2014-2018**
 
-I'm Johnathon Barbish, a recent Ph.D. graduate in mechanical engineering at Virginia Tech. I often go by my nickname John. I'm currently looking for new research opportunities while I am teaching as an instructor at Virginia Tech. My broad research interest include improving our understanding of complex systems including fluid mechanics and nonlinear dynamics by using tools from statistical mechanics and dynamical systems theory.
+I'm Johnathon Barbish, a new visiting assistant professor in the Department of Engineering at James Madison University. I often go by my nickname John. I'm currently learning new teaching methods and pedagogy while at James Madison University. I am interested in many aspects of engineering, physics, and mathematics, with a special enjoyment from constructing and developing mathematical models of real systems. This has developed into my research into understanding complex systems. These complex systems include physics such as solid mechanics, fluid mechanics, and nonlinear dynamics. I use tools from statistical mechanics and dynamical systems theory to investigate these systems.
+
+I am interested in developing new collaborations on research and/or teaching pedagogy. If you are interested, please feel free to email me!
 
 ### Other pages
 - **[Publications](../publications/)** - summaries and links to my research publications with collaborators

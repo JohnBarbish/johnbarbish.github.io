@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-A current version of my [CV](../files/barbish_cv.pdf).
+A pdf of my [CV](../files/barbish_cv.pdf).

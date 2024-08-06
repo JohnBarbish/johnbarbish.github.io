@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johnathon Barbish"
+title                    : "John Barbish, Ph.D."
 title_separator          : "-"
-name                     : &name "Johnathon Barbish"
-description              : &description "Instructor"
+name                     : &name "John Barbish, Ph.D."
+description              : &description "Visiting Assistant Professor"
 url                      : https://johnbarbish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnBarbish/johnbarbish.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "John Barbish"
+  name             : "John Barbish, Ph.D."
   avatar           : "barbish.jpg"
-  bio              : "Researcher and teacher interested in understanding complex physical systems"
+  bio              : "Visiting Assistant Professor"
   location         : 
-  employer         : "Virginia Tech"
+  employer         : "James Madison University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qlNYjUEAAAAJ&hl=en&view_op=list_works&sortby=pubdate"
-  email            : "jbarbish@vt.edu"
+  email            : "barbisjr@jmu.edu"
   researchgate     : "https://www.researchgate.net/profile/John_Barbish"
   uri              :
   bitbucket        :
