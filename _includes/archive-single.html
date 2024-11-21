@@ -31,7 +31,9 @@
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         {% if post.collection == 'publications' %}
-          {% if post.paperurl %}
+          {% if post.localurl %}
+            <a href=" {{ post.localurl }} ">{{ title }}</a>
+          {% elsif post.paperurl %}
             <a href=" {{ post.paperurl }} ">{{ title }}</a>
           {% elsif post.arxivurl %}
             <a href=" {{ post.arxivurl }} ">{{ title }}</a>
@@ -73,6 +75,10 @@
     {% if post.citation %}
     <p>Citation: {{ post.citation }}</p>
     {% endif %}
+    <!-- Link to the paper posted here, if available. -->
+    {% if post.localurl %}
+    <p>Download here: <a href=" {{ post.localurl }} "><u>here</u></a>. This article may be downloaded for personal use only. Any other use requires prior permission of the author and AIP Publishing. This article appeared in {{ post.citation }} and may be found at <a href=" {{ post.paperurl }} "><u>{{ post.paperurl }}</u></a>.</p>
+    {% endif %}
     <!-- Link to the paper from the publisher, if available. -->
     {% if post.paperurl %}
     <p>Download from publisher: <a href=" {{ post.paperurl }} "><u>here</u></a></p>
@@ -81,6 +87,7 @@
     {% if post.arxivurl %}
     <p>Download from arXiv: <a href=" {{ post.arxivurl }} "><u>here</u></a></p>
     {% endif %}
+    <hr style="height:5px;border-width:5;color:black;background-color:black">
 
   </article>
 </div>

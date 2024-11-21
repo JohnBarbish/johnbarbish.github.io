@@ -7,6 +7,7 @@ date: 2023-10-24
 venue: 'Physical Review Applied'
 paperurl: 'https://doi.org/10.1103/physrevapplied.20.044061'
 # arxivurl: 'https://arxiv.org/pdf/2303.13977'
+localurl: '../files/papers/gress2023.pdf'
 citation: 'H. Gress, J. Barbish, C. Yanik, I. I. Kaya, R. T. Erdogan, M. S. Hanay, M. Gonzalez, O. Svitelskiy, M. R. Paul, and K. L. Ekinci, “Multi-mode Brownian Dynamics of a Nanomechanical Resonator in a Viscous Fluid," <i>Physical Review Applied</i>, vol. 20, no. 4, p. 044061, Oct. 2023.'
 ---
 
