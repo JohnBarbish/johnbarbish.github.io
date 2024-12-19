@@ -25,6 +25,10 @@ I am interested in developing new collaborations on research and/or teaching ped
 - **[Other Interests](../portfolio/)**  - some miscellaneous projects I've done which I wanted to share
 - **[CV](../cv/)**  - a copy of a recent CV of mine
 
+<h3>Materials and Advanced Mechanics Tutorials</h3>
+I've developed a series of instructional videos demonstrating how to use perform common experiments and preparation for materials testing and characterization. I've compiled all of these tutorials into a playlist:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=vPi_Q_WNjE4a0D15&amp;list=PLJEfPsCri8o1SnFl4rxjVvcEXIUyTQ87y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Fun Animations
 ![](../files/midplane-velocity-field.mp4)
 
