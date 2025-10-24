@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Barbish, Ph.D."
 title_separator          : "-"
 name                     : &name "John Barbish, Ph.D."
-description              : &description "Visiting Assistant Professor"
+description              : &description "Assistant Professor"
 url                      : https://johnbarbish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JohnBarbish/johnbarbish.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Barbish, Ph.D."
   avatar           : "barbish.jpg"
-  bio              : "Visiting Assistant Professor"
+  bio              : "Assistant Professor"
   location         : 
   employer         : "James Madison University"
   pubmed           : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@JohnBarbish"
   wikipedia        :
 
 
